@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tirtharaj Das
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Full Stack Java Develo[ment 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I've completed my graduation on B.Sc. Physics
+- 🌱 I’m currently learning Full Stack Java Development 
 - 📫 How to reach me dastirtha2000@gmail.com
 
 <!---
